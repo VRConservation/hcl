@@ -1,3 +1,2 @@
-# hcl
-
-Article about hcl.
+# Hat Creek Lumber
+Hat Creek Lumber is developing a community sawmill integrated with Hat Creek Bioenergy, LLC. The mill will manufacture lumber from small-diameter logs and operate under a public-private partnership that generates income for local nonprofit organizations. The greatest hurdle to overcome for the facility's establishment is securing equity and debt financing. Local partners are developing and ensuring the processes necessary to implement the public-private partnership. We seek $1,000,000 to make the sawmill fully functional in 2024 and complement the funds already secured.
